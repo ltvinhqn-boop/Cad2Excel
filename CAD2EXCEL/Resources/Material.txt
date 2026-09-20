@@ -1,0 +1,30 @@
+﻿SPHC
+SPCC
+SS400
+C45
+CT38
+SKD11
+SKD61
+Tôn màu trắng
+Tôn gân
+Tôn mạ kẽm
+Thép vằn
+Q345
+SUS304
+SUS316L
+INOX
+AL
+AL6061
+AL5052
+CU
+MC
+PA
+PU
+POM
+W
+Ag
+Pb
+Zn
+Gang trắng
+Gang xám
+Hg

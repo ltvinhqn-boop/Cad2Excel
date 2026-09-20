@@ -1,0 +1,11 @@
+﻿PKH đặt mua
+PKH mua, phản hồi kỹ thuật trước khi mua
+Gia công theo bản vẽ
+Gia công theo bản vẽ, sơn theo bản vẽ
+Sơn theo bản vẽ
+Đã đặt mua
+Gia công theo bản vẽ, NMT ra phôi
+Gia công theo bản vẽ, mạ theo yêu cầu
+Dùng chung bản vẽ, mạ theo yêu cầu
+Dùng chung bản vẽ
+PKH đặt mua, gia công theo BV

@@ -1,0 +1,11 @@
+***MENUGROUP=VINH
+
+***POP9
+[VTeams]
+
+[CREATE-PARTLIST                   	C2P]^C^CC2P
+[EXPORT-EXCEL               	        C2E]^C^CC2E
+[CREATE-MTEXTPART                  	RMT]^C^CRMT
+
+
+
